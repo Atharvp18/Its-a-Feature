@@ -1,5 +1,7 @@
 # It's a Feature
 
+A project made for JPMC's Code for Good Hackathon '22. It is a platform created for Foundation for Mother & Child Health that helps Anganwadi Workers to counsel pregnant or newly delivered mothers in remote villages of India and eradicate malnourishment. I collaborated with one of my teammates on the backend, which included NodeJS, Express, MongoDB, and Firebase authentication.
+
 **Problem Statement:**<br>
 Malnourishment remains one of India's major problems, afflicting 40% of the children born. AWW tries to assist mothers to give birth to a healthy child with a normal growth spurt. However, due to lack of support and help, AWW is unable to provide the mothers with the right counsel. They need a platform that will provide them with the information to be conveyed and for FMCH to monitor this process
 
